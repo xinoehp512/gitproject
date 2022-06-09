@@ -1,4 +1,4 @@
-const c = 50;
+const c = "Oh no";
 const b = () => {
     console.log("Lo");
 };
