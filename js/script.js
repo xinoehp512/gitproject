@@ -1,2 +1,4 @@
 const c = 50;
-const myFunc = () => {};
+const b = () => {
+    console.log("Lo");
+};
