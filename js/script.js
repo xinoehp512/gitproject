@@ -1,4 +1,4 @@
 const c = 100;
-const b = () => {
+const byfunc = () => {
     console.log("Lo");
 };
